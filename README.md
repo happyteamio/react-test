@@ -22,4 +22,4 @@ Build a simple weather app using React.
 1. Feel free to use any project bootstrapper you like (CRA, Gatsby, Next.js, Redwood.js or anything else).  
 1. As for the UI - it does not have to be visually stunning, but please keep it tidy and intuitive. Use whatever UI library or CSS framework you like. Making it work nicely on mobile and desktop resolutions would be a plus.  
 1. It will be tested on the latest Firefox.  
-1. If anything is missing from the description and you're in doubt - use your best guess.
+1. If anything is missing from the description and you're in doubt - use your best guess, but also do not hesitate to contact us if you prefer.
